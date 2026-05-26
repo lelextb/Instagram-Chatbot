@@ -87,13 +87,13 @@ Instagram-Chatbot/
 ├── requirements.txt        # Python dependencies
 ├── README.md               # This file
 ├── .gitignore
-├── targets.txt             # Static target list (not committed)
-├── dynamic_targets.txt     # Runtime added targets (not committed)
-├── my_information.txt      # Lina's self‑story (not committed)
-├── processed_fingerprints.json  # Message deduplication (not committed)
-├── targets_profile.json    # Cached Instagram profiles (not committed)
-├── chrome_profile/         # Browser session (not committed)
-└── bot.log                 # Log file (not committed)
+├── targets.txt             # Static target list 
+├── dynamic_targets.txt     # Runtime added targets 
+├── my_information.txt      # Lina's self‑story 
+├── processed_fingerprints.json  # Message deduplication 
+├── targets_profile.json    # Cached Instagram profiles 
+├── chrome_profile/         # Browser session 
+└── bot.log                 # Log file 
 ```
 
 ---
