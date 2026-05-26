@@ -1,0 +1,30 @@
+# Environment & secrets
+.env
+*.env
+
+# Chrome profile (contains your logged‑in session)
+chrome_profile/
+
+# Bot runtime data (fingerprints, targets, persona memory)
+processed_fingerprints.json
+targets_profile.json
+my_information.txt
+dynamic_targets.txt
+last_message.txt
+
+# Logs
+bot.log
+*.log
+
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Legacy / unused files
+session.json
