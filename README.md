@@ -53,8 +53,6 @@ python-dotenv, JSON / plain‑text file storage.
    nano .env   # or use your favourite editor
    ```
 
-   > **Never** commit `.env` – it contains your secrets.
-
 4. **Prepare your targets**
    Create a `targets.txt` file with one Instagram username per line (the bot will also
    add dynamic targets later).
